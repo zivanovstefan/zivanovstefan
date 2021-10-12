@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zivanovstefan
-- 👀 I’m interested in Data Science|Data Analysis
+- 👀 I’m interested in Data Science|Data Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 MAIL: zivanovstefan@gmail.com
