@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stefan Živanov</h1>
-<h3 align="center">IT student from Serbia</h3>
 
 - 🔭 I’m currently working on <a href="https://zivanovstefan.me">**my website**</a>
 
