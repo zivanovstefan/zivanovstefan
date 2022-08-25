@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan Živanov</h1>
 
-- 🔭 I’m currently working on <a href="https://zivanovstefan.me">**my website**</a>
-
 - 📫 How to reach me **zivanovstefan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
