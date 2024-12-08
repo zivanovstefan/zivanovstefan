@@ -5,9 +5,6 @@
 <p align="left"> <a target="_blank" rel="noreferrer"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIYXICGp5nfqCplO4mjzJy1H0lztRtz75OQ&s"
             alt="shopify" width="40" height="40" /> </a>
-    <a target="_blank" rel="noreferrer"> <img
-            src="https://searchspring.com/wp-content/uploads/2022/01/shopify-plus-logo-black2-640x183.png" alt="shopify"
-            width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
